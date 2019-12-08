@@ -1,0 +1,25 @@
+Metadata-Version: 1.0
+Name: pilger-leap
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: 
+        ## Installation
+        
+        Create virtualenv and install requirements
+        ```bash
+        cd /path/to/project
+        python3 -m venv .pilgerleap
+        
+        # activate for windows
+        source .pilgerleap/Scripts/activate
+        
+        # activate for unix based systems
+        source .pilgerleap/bin/activate
+        
+        pip install -e .
+        ```
+Platform: UNKNOWN
